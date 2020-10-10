@@ -1,10 +1,18 @@
 # MITcourse
+
+## O que é este repositório?
+
+Resumos do que aprendi no curso do MIT: Introdução à Química do Estado Sólido.
+Ministrado pelo professor Sadoway.
+
+
 ## Curso de Introdução à Química do Estado Sólido do MIT
 -  Um pouco sobre o curso:
 
 Química com ênfase em materiais de estado sólido e sua aplicação a sistemas de engenharia.
 Um conjunto completo de vídeos de palestras do Prof. Sadoway.
 
+## A tese do 3.091 é que a estrutura eletrônica é a chave para entender o mundo ao nosso redor.
 
 # Tópicos:
 
@@ -68,6 +76,11 @@ Expandir Menu Soluções aquosas
 2. Diagramas de fase binária: Solubilidade completa
 3. Diagramas de fase binária: Solubilidade limitada
 
+
+### "A tese do 3.091 é que a estrutura eletrônica é a chave para entender o mundo ao nosso redor."
+
+
+### Observação: Curso disponível em inglês.
 
 ### Link para acessar o curso:
 https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/
